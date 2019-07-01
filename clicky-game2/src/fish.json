@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "image": "angelfish.jpg"
+    "image": "angelfish.jpg" 
   },
   {
     "id": 2,
-    "image": "barracuda.JPG"    
+    "image": "barracuda.jpg"    
   },
   {
     "id": 3,
-    "image": "butterflyfish.jpeg"
+    "image": "butterflyfish.jpg"
   },
   {
     "id": 4,
@@ -21,7 +21,7 @@
   },
   {
     "id": 6,
-    "image": "creolewrasse.jpeg"
+    "image": "creolewrasse.jpg"
   },
   {
     "id": 7,
@@ -29,11 +29,11 @@
   },
   {
     "id": 8,
-    "image": "gruntfish.jpeg"
+    "image": "gruntfish.jpg"
   },
   {
     "id": 9,
-    "image": "parrotfish.jpeg"
+    "image": "parrotfish.jpg"
   },
   {
     "id": 10,
